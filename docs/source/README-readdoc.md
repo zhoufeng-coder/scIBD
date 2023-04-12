@@ -6,6 +6,16 @@ https://github.com/Ying-Lab/scIBD
 
 scIBD is totally produced by Python.
 
+test
+-----
+git clone https://github.com/Ying-Lab/scIBD
+
+cd scIBD
+
+pip install -r requirements.txt 
+
+python setup.py install
+
 
 Installation
 -----
